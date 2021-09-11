@@ -1,0 +1,10 @@
+
+*.log
+*.html
+*.pyc
+codeTest/*
+reports/*
+logs/*
+/.pytest_cache
+assets/
+*.log

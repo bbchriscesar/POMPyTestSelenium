@@ -5,6 +5,7 @@
 codeTest/*
 reports/*
 logs/*
-/.pytest_cache
+.pytest_cache/
 assets/
 *.log
+.idea/
